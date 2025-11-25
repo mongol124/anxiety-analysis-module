@@ -82,6 +82,7 @@ ProgressTracker.trackExerciseCompletion(user, exercise);
 4.  Просмотрите статистику за неделю/месяц
 
 ## 4. Структура репозитория
+'''
 anxiety-helper/
 ├── src/main/java/com/anxietyhelper/
 │   ├── controller/           # JavaFX контроллеры
@@ -122,6 +123,7 @@ java # Техники заземления
 │       ├── exercises-view.fxml       # Библиотека упражнений
 │       └── analytics-view.fxml       # Статистика и графики
 └── pom.xml                   # Maven конфигурация
+'''
 ## 5. Технические требования
 
 *   Язык программирования: Java 11+
