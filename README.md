@@ -55,6 +55,7 @@ JavaFX SDK: Версия 17 или выше
 2.  Убедитесь, что в настройках проекта установлен JDK 11+.
 3.  Добавьте конфигурацию запуска для JavaFX, указав:
     Main class: com.anxietyhelper.Main
+    
     VM options: --module-path /path/to/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.media
 
 ## 3. Примеры использования
