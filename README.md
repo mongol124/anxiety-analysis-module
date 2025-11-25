@@ -33,16 +33,15 @@ JavaFX SDK: Версия 17 или выше
 ``` 
 2.  Соберите проект:
    
-
-
+```
     mvn clean compile
-    
+``` 
 3.  Запустите приложение:
    
-Bash
+```
 
     mvn javafx:run
-    
+``` 
 ### Запуск через IDE (IntelliJ IDEA)
 1.  Импортируйте проект как Maven проект.
 2.  Убедитесь, что в настройках проекта установлен JDK 11+.
@@ -66,14 +65,14 @@ Bash
 ### Выполнение упражнений для снижения тревоги
 Java
 
-```bash
+```
 // Пример запуска дыхательного упражнения
 
 BreathingExercise exercise = new BoxBreathingExercise();
 exercise.setDuration(5); // 5 минут
 exercise.start();
 ```
-```bash
+```
 // Управление прогрессом
 ProgressTracker.trackExerciseCompletion(user, exercise);
 ```
@@ -86,7 +85,7 @@ ProgressTracker.trackExerciseCompletion(user, exercise);
 
 ## 4. Структура репозитория
 
-```bash
+```
 anxiety-helper/
 ├── src/main/java/com/anxietyhelper/
 │   ├── controller/           # JavaFX контроллеры
@@ -159,7 +158,7 @@ GUI фреймворк: JavaFX 17+
 Java
 
 
-```bash
+```
 // Пример расчета уровня тревожности
 public AnxietyLevel calculateAnxietyLevel(AssessmentResult result) {
     int totalScore = result.getTotalScore();
