@@ -185,9 +185,13 @@ public AnxietyLevel calculateAnxietyLevel(AssessmentResult result) {
 Для вопросов, предложений и сообщений об ошибках:
 
 Email: dgeorgy0720@mail.ru
+
 Issue Tracker: [Сообщить о проблеме](https://github.com/mongol124)
+
 Telegram Community: [Поддержка пользователей](@salsmug)
+
 Документация: [Руководство пользователя](docs/user_manual.md)
+
 
 ## 11. Важное примечание
 
