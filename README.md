@@ -26,14 +26,14 @@ JavaFX SDK: Версия 17 или выше
 
 1.  Клонируйте репозиторий:
    
-Bash
+```
 
     git clone https://github.com/ВАШ_USERNAME/anxiety-helper.git
     cd anxiety-helper
-    
+``` 
 2.  Соберите проект:
    
-Bash
+
 
     mvn clean compile
     
