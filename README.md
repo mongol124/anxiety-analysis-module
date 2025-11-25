@@ -68,6 +68,7 @@ Java
 
 ```bash
 // Пример запуска дыхательного упражнения
+
 BreathingExercise exercise = new BoxBreathingExercise();
 exercise.setDuration(5); // 5 минут
 exercise.start();
@@ -75,8 +76,9 @@ exercise.start();
 ```bash
 // Управление прогрессом
 ProgressTracker.trackExerciseCompletion(user, exercise);
-### Работа с дневником настроения
 ```
+### Работа с дневником настроения
+
 1.  Откройте раздел "Дневник"
 2.  Отметьте текущее эмоциональное состояние по шкале от 1 до 10
 3.  Опишите триггеры и мысли, вызвавшие тревогу
