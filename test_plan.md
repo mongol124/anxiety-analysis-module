@@ -24,7 +24,7 @@
 ## 4. Инструменты
 - JUnit 5 — модульные тесты  
 - JavaFX Test Harness — GUI-тесты  
-- Google Forms — сбор обратной связи  
+- Google Forms — сбор обратной связи  (https://docs.google.com/forms/d/e/1FAIpQLScEf8LdBlvBOOZG-7hjWmem3ByOVcbwNNPYvA_u974nGfAJtQ/viewform?usp=dialog)
 - GitHub Issues — фиксация ошибок  
 
 ## 5. Методика тестирования
